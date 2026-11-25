@@ -1,0 +1,10 @@
+# Backups de registro locais (nao versionar dados especificos de maquina)
+*.reg
+*.log
+*.exe
+*.zip
+
+# Arquivos temporarios do Windows
+Thumbs.db
+Desktop.ini
+.DS_Store
