@@ -1,0 +1,20 @@
+﻿=== AFTER (DEPOIS) - 2026-11-24 21:57:57 ===
+
+--- Processos AMD em Idle ---
+
+Name       Id RAM_MB CPU
+----       -- ------ ---
+atieclxx 2276  16,54    
+atiesrxx 1628   7,07    
+
+
+Total RAM Processos AMD: 23.61 MB
+
+--- Benchmark GPU 60s ---
+Idle: Temp=47,0C Core=214MHz Mem=300MHz Load=0% BusSpeed=8000MT/s
+Load: Duration=60,00s Frames=32385 AvgFPS=539,72 1%LowFPS=150,90 AvgFT=1,85ms P99FT=4,92ms
+GPU_Load: MaxTemp=66,0C AvgCore=1071MHz MaxCore=1071MHz AvgMem=1500MHz MaxMem=1500MHz MaxLoad=100% MaxBusSpeed=8000MT/s
+
+--- TDRs (Event 4101) desde o boot ---
+Total TDRs: 0
+

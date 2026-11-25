@@ -1,0 +1,21 @@
+﻿=== BASELINE (ANTES) - 2026-11-24 21:43:22 ===
+
+--- Processos AMD em Idle ---
+
+Name         Id RAM_MB CPU
+----         -- ------ ---
+amdfendrsr 6428   8,11    
+atieclxx   7192     26    
+atiesrxx   6080   7,48    
+
+
+Total RAM Processos AMD: 41.59 MB
+
+--- Plano de Energia & PCIe ---
+GUID do Esquema de Energia: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c  (Alto desempenho)
+
+--- Benchmark GPU 60s ---
+Idle: Temp=49,0C Core=214MHz Mem=300MHz Load=0% BusSpeed=2500MT/s
+Load: Duration=60,01s Frames=12777 AvgFPS=212,92 1%LowFPS=58,73 AvgFT=4,70ms P99FT=14,47ms
+GPU_Load: MaxTemp=59,0C AvgCore=561MHz MaxCore=716MHz AvgMem=1478MHz MaxMem=1500MHz MaxLoad=100% MaxBusSpeed=8000MT/s
+
